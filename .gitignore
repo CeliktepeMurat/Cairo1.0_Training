@@ -1,3 +1,5 @@
-/target/
-/outputs/
-/.idea
+target/
+.env
+node_modules/
+.idea/
+cairo_project.toml
